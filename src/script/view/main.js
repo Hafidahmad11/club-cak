@@ -1,4 +1,4 @@
-import '../component/search-bar.js';;
+import '../component/search-bar.js';
 import DataSource from '../data/data-source.js';
  
 const main = () => {
